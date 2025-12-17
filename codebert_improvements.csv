@@ -1,0 +1,5 @@
+Dataset,Accuracy_Baseline,Accuracy_CodeBERT,Accuracy_Improvement,Precision_Baseline,Precision_CodeBERT,Precision_Improvement,Recall_Baseline,Recall_CodeBERT,Recall_Improvement,F1-Score_Baseline,F1-Score_CodeBERT,F1-Score_Improvement,AUC-ROC_Baseline,AUC-ROC_CodeBERT,AUC-ROC_Improvement
+CM1,0.8876 (MLP),0.8876,+0.00%,0.2500 (RF),0.0000,-100.00%,0.7000 (SVM),0.0000,-100.00%,0.3684 (SVM),0.0000,-100.00%,0.7975 (SVM),0.6873,-13.82%
+PC1,0.9267 (MLP),0.9267,+0.00%,0.5000 (MLP),0.0000,-100.00%,0.7143 (SVM),0.0000,-100.00%,0.3175 (SVM),0.0000,-100.00%,0.8277 (RF),0.7147,-13.65%
+JM1,0.7897 (MLP),0.7757,-1.77%,0.6392 (MLP),0.5172,-19.09%,0.5323 (SVM),0.0746,-85.99%,0.4431 (SVM),0.1304,-70.57%,0.7091 (SVM),0.6607,-6.83%
+KC1,0.7284 (MLP),0.7407,+1.69%,0.4286 (MLP),0.0000,-100.00%,0.4762 (SVM),0.0000,-100.00%,0.3974 (SVM),0.0000,-100.00%,0.6145 (SVM),0.5798,-5.65%

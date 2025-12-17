@@ -1,0 +1,2 @@
+Model,Dataset,Accuracy,Precision,Recall,F1-Score,AUC-ROC
+CodeBERT_Fixed,KC1,0.2593,0.2593,1.0000,0.4118,0.5000
